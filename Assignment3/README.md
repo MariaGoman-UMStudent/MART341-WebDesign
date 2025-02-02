@@ -14,9 +14,9 @@ I have prior experience to GitHub so right now it's easy for me to understand wh
 2. Second item.
 3. Third item.
 
--An item
--Another item
--Yet another item
+- An item.
+- Another item.
+- Yet another item.
 
 
 
