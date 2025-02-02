@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Maria Goman MART341-WebDesign
 Repository for my web design homework
