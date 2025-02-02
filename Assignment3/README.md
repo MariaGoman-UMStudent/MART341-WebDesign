@@ -20,5 +20,7 @@ I have prior experience to GitHub so right now it's easy for me to understand wh
 
 [Lofi music playlist](https://www.youtube.com/watch?v=01dn67QubYQ)
 
+![Cat Latte with absolute URL](https://stock.adobe.com/search?k=coffee+cat)
+
 
 
