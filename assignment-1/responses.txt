@@ -1,1 +1,3 @@
-I have nothing to say right now
+# I have nothing to say right now
+** This is Bold **
+* This is Italic *
