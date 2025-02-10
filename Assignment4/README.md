@@ -1,1 +1,3 @@
-
+- The DOM, or Document Object Model, is a programming interface that describes the structure of a document or web page. It is often thought of as a tree, with documents being represented as nodes, and each node can be an object so that programming languages can modify it's properties and content. The DOM is useful for styling or decorating objects.
+- Every HTML page needs these four elements: The Document type, The Root Element, The Head Element, and The Body Element.
+- HTML, XML, and XHTML are three markup languages used for creating web pages. HTML stands for Hypertext Markup Language, and it is the standard markup language used to create and design websites. XML (Extensible Markup Language) is a markup language that provides rules to define any data and is also used to share data on the web. XHTML (Extensible Hypertext Markup Language) is a stricter and more XML-based version of HTML. It uses closed tags, lowercase formatting and quoted attribute values. 
