@@ -1,0 +1,3 @@
+"Reflect on a class you truly enjoyed"
+
+My all-time favorite class I took was German in highschool. I really enjoyed learning the langauge and culture. The teacher was also great.  He cared about all of his students and made sure every one of us felt included. It was a small class which was nice because it felt more intimate and everyone got to know eachother well. I also had aspirations to travel to Austria in college because I have family there, and I was very determined to learn the language. I still haven't gotten the chance to see Austria, but I will make sure to go there in the future.
