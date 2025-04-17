@@ -7,6 +7,6 @@ Required techniques:
 
 3 additional techniques:
 
--I added an underline on the example poem
--I adjusted the line spacing in the explanitory paragraph to make it user friendly and easier to read
--I added another pink hover affect over the author name to match the overall design and color scheme
+- I added an underline on the example poem
+- I adjusted the line spacing in the explanitory paragraph to make it user friendly and easier to read
+- I added another pink hover affect over the author name to match the overall design and color scheme
