@@ -1,3 +1,0 @@
-- I decided to continue working on my coffee shop website... So far I only like how the navigation bar looks. I wanted to make the menu box smaller so that I could add another menu box for other beverage items but I had too much trouble with it.
-- In the style page, I added some margins and padding in the menu box. 
-- For the banner image I used positioning to control the placement of the image and text.
