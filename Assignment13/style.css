@@ -1,0 +1,128 @@
+/* Set the layout of the menu: */
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 1em .2em;
+    margin-left: 5em;
+    margin-right: auto;
+    min-width: 15em;
+    text-align: center;
+    background-color: #26272b;
+    padding: 0.5em 1em;
+    transition: all 0.4s ease;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #138989;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 14.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #baf0ef;
+    background-color: #a2a2a2;
+}
+
+.logo {
+    height: 200px;
+    color: rgb(10, 10, 10);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3.3em;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.1em;
+    transition: all 0.4s ease;
+}
+
+.logo:hover {
+    color:#138989;
+}
+
+.motto {
+    text-align: center;
+}
+
+#phrase-1 {
+    color:#138989;;    
+    transition: all 0.4s ease;
+}
+
+#phrase-1:hover {
+    color: #baf0ef;
+    font-family:'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: #26272b;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#paragraph-1 {
+    display: inline-block;
+    padding: 2em;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    line-height: 2em;
+}
+
+.contact_header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #000000;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    margin-left: 42.8%;
+    font-weight: bold;
+}
+
+.contact_content_p{
+    display: inline-block;
+    margin-left: 530px;
+    margin-right: 470px;
+    text-align: center;
+    line-height: 1.9em;
+    font-size: 20px;
+}
