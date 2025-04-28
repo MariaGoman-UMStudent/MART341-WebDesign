@@ -1,0 +1,4 @@
+- I added four pages-- A home page, about page, contact page, and menu page with dropdown in the navigation bar
+- I added media queries in the css page.. Not sure how it'll look on the phone, but I hope it works.
+- I added a navigation bar at the top but to be honest, I'm not very happy with it.. I think the colors are cohesive to the color scheme, but I didn't want the tabs to be spaced apart. I also wanted the logo above the nav bar but I spent hours trying to make it look right and I just gave up in the end.
+- I included a dropdown menu in under the cafe menu tab.
