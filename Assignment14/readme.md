@@ -1,0 +1,3 @@
+- I added a carousel slideshow from Bootstrap because I always wanted to add a slideshow in the homepage for my coffee shop website. I knew you had to add javascript to make a slideshow, but using bootstrap to help with the framework is such a life saver.
+- I wasn't sure what html5 graphic I could implement so I looked up some styles on Google and found some glowing dots that I wanted to implement on the page, but unfortunately the navigation bar didn't work anymore. I was so bummed out because they looked super nice. I then settled for a simple circle on the left corner of the page to play it safe so I don't mess anything up anymore.
+- I used javascript code for my circle graphic and also for the slideshow carousel. 
